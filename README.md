@@ -5,22 +5,22 @@
 ---
 
 ## 🏆 GitRoll Achievements
-[![GitRoll Profile](https://gitroll.io/api/profile?username=YourGitHubUsername)](https://gitroll.io/user/YourGitHubUsername)
+[![GitRoll Profile](https://gitroll.io/api/profile?username=aarth-01)](https://gitroll.io/user/aarth-01)
 
 ---
 
 ## 📊 GitHub Stats
-![Aarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Aarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarth-01&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=aarth-01&theme=radical&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
-![Aarth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=radical)
+![Aarth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aarth-01&theme=radical)
 
 ---
 
