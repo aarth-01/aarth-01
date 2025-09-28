@@ -4,8 +4,7 @@
 
 ---
 
-## 🏆 GitRoll Achievements
-[![GitRoll Profile](https://gitroll.io/api/profile?username=aarth-01)](https://gitroll.io/user/aarth-01)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aarth-01.aarth-01)
 
 ---
 
