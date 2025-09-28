@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=aarth-01.aarth-01" alt="Visitor Count" height="200"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aarth-01.aarth-01" alt="Visitor Count" width="200"/>
 
 ---
 
