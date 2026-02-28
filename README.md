@@ -8,11 +8,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Aarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarth-01&show_icons=true&theme=radical)
-
----
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=aarth-01&theme=radical&hide_border=true)
 
